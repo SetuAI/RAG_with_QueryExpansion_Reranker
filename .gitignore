@@ -1,0 +1,14 @@
+# secrets — never commit this
+.env
+
+# generated index — large, and regenerable from ingest.py anyway
+faiss_index/
+
+# python cache/venv
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS junk
+.DS_Store
