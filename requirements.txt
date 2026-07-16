@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+pypdf
+python-dotenv
+faiss-cpu
+docx2txt
+langsmith
+rich
+sentence-transformers
